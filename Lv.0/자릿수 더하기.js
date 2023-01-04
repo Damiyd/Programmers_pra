@@ -15,4 +15,4 @@ function solution(n) {
     for(let i = 0; i < a.length; i++) {
         answer += parseInt(a[i])
     }
-    
+}
