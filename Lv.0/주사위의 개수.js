@@ -13,7 +13,7 @@
 // 입출력 예
 // box	n	result
 // [1, 1, 1]	1	1
-// [10, 8, 6]	3	12
+// [10, 8, 6]	3	1
 
 function solution(box, n) {
     var answer = Math.floor(box[0] / n) * Math.floor(box[1] / n) * Math.floor(box[2] / n);
